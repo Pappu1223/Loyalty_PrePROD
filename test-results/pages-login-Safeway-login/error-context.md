@@ -1,0 +1,1282 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e9]:
+      - generic [ref=e13]:
+        - generic [ref=e15]:
+          - generic [ref=e16]:
+            - generic:
+              - link "Skip to search" [ref=e17] [cursor=pointer]:
+                - /url: "#"
+              - link "Skip to main content" [ref=e18] [cursor=pointer]:
+                - /url: "#"
+              - link "Skip to cookie settings" [ref=e19] [cursor=pointer]:
+                - /url: "#"
+              - link "Skip to chat" [ref=e20] [cursor=pointer]:
+                - /url: "#"
+            - navigation "primary" [ref=e22]:
+              - list [ref=e23]:
+                - link "Grocery (opens in a new tab)" [ref=e24] [cursor=pointer]:
+                  - /url: https://www.safeway.com
+                  - text: Grocery
+                - link "Health (opens in a new tab)" [ref=e25] [cursor=pointer]:
+                  - /url: /health.html
+                  - text: Health
+                - link "Pharmacy (opens in a new tab)" [ref=e26] [cursor=pointer]:
+                  - /url: /pharmacy.html?utm_source=groceryIngress
+                  - text: Pharmacy
+                - link "For Business (opens in a new tab)" [ref=e27] [cursor=pointer]:
+                  - /url: https://business.safeway.com
+                  - text: For Business
+          - navigation "banner" [ref=e29]:
+            - generic [ref=e30]:
+              - link "safeway Homepage" [ref=e31] [cursor=pointer]:
+                - /url: /
+                - img [ref=e32]
+              - region "Store Location" [ref=e33]:
+                - button "Instore at 5100 Broadway" [ref=e34] [cursor=pointer]:
+                  - generic "Instore at 5100 Broadway" [ref=e36]: 5100 Broadway
+                - link "Store hours & info" [ref=e40] [cursor=pointer]:
+                  - /url: https://local.safeway.com/search.html
+                  - text: Hours & info
+              - search [ref=e44]:
+                - generic [ref=e46]:
+                  - combobox "Search combobox editable has autocomplete search everything at safeway online in store" [ref=e47]
+                  - button "search" [ref=e48] [cursor=pointer]
+              - navigation "Account and Cart" [ref=e52]:
+                - list [ref=e53]:
+                  - listitem [ref=e54]:
+                    - button "Account menu" [ref=e55] [cursor=pointer]:
+                      - generic [ref=e56]: Sign in
+                  - listitem [ref=e58]:
+                    - button "Shopping Cart" [ref=e59] [cursor=pointer]
+          - generic [ref=e63]:
+            - generic [ref=e64]:
+              - navigation "secondary" [ref=e65]:
+                - menubar "Categories" [ref=e66] [cursor=pointer]:
+                  - menuitem "Fresh" [ref=e67]
+                  - menuitem "Pantry" [ref=e68]
+                  - menuitem "Beverages" [ref=e69]
+                  - menuitem "Frozen" [ref=e70]
+                  - menuitem "Household" [ref=e71]
+                  - menuitem "Recipes" [ref=e72]
+                  - menuitem "Shop more" [ref=e73]
+              - navigation "campaign" [ref=e75] [cursor=pointer]:
+                - list [ref=e76]:
+                  - listitem [ref=e77]:
+                    - link "Holiday dinner 🍽️" [ref=e78]:
+                      - /url: /order/winter/christmas-holiday-dinner.html
+            - navigation "tertiary" [ref=e79]:
+              - list [ref=e80] [cursor=pointer]:
+                - listitem [ref=e81]:
+                  - link "Safeway for U" [ref=e82]:
+                    - /url: /loyalty/coupons-deals
+                - listitem [ref=e83]:
+                  - link "Weekly Ad" [ref=e84]:
+                    - /url: /weeklyad
+                - listitem [ref=e85]:
+                  - link "click to view Meals AI" [ref=e86]:
+                    - /url: /assistant/
+                    - text: Safeway AI
+        - heading "safeway Home page" [level=1] [ref=e87]
+      - generic [ref=e91]:
+        - generic [ref=e93]:
+          - text: Unlimited Free Delivery with FreshPass®
+          - generic [ref=e94]:
+            - text: Plus score a $5 monthly credit with annual subscription – a $60 value! Restrictions apply.
+            - link "Start free trial" [ref=e95] [cursor=pointer]:
+              - /url: /freshpass/manage/subscribe
+        - button "Close Notification" [ref=e96] [cursor=pointer]:
+          - img [ref=e97]
+    - generic [ref=e102]:
+      - main [ref=e110]:
+        - generic [ref=e114]:
+          - generic [ref=e117]:
+            - generic [ref=e120]:
+              - link [ref=e123] [cursor=pointer]:
+                - /url: /freshpass/manage/subscribe
+                - generic [ref=e126]:
+                  - img [ref=e129]
+                  - generic [ref=e130]:
+                    - heading [level=2] [ref=e132]: Get 50% off FreshPass®
+                    - generic [ref=e133]: Get free delivery, premium perks & more. Thru Dec. 9.
+                    - link [ref=e134]:
+                      - /url: /freshpass/manage/subscribe
+                      - text: Sign up
+              - link [ref=e137] [cursor=pointer]:
+                - /url: /order/winter/christmas-holiday-dinner.html
+                - generic [ref=e143]:
+                  - heading [level=2] [ref=e145]: Holiday prep made easy
+                  - generic [ref=e146]: Shop early for savings on quality must-haves
+                  - link [ref=e147]:
+                    - /url: /order/winter/christmas-holiday-dinner.html
+                    - text: Shop now
+              - link [ref=e154] [cursor=pointer]:
+                - /url: /div/game-on-norcal.html
+                - generic [ref=e160]:
+                  - heading [level=2] [ref=e162]: Earn & score
+                  - generic [ref=e163]: "Shop more, earn more: 4x Points on hundreds of items!"
+                  - link [ref=e164]:
+                    - /url: /div/game-on-norcal.html
+                    - text: Shop now
+              - link [ref=e169] [cursor=pointer]:
+                - /url: /freshpass/manage/subscribe
+                - generic [ref=e172]:
+                  - img [ref=e175]
+                  - generic [ref=e176]:
+                    - heading [level=2] [ref=e178]: Get 50% off FreshPass®
+                    - generic [ref=e179]: Get free delivery, premium perks & more. Thru Dec. 9.
+                    - link [ref=e180]:
+                      - /url: /freshpass/manage/subscribe
+                      - text: Sign up
+              - link [ref=e183] [cursor=pointer]:
+                - /url: /order/winter/christmas-holiday-dinner.html
+                - generic [ref=e189]:
+                  - heading [level=2] [ref=e191]: Holiday prep made easy
+                  - generic [ref=e192]: Shop early for savings on quality must-haves
+                  - link [ref=e193]:
+                    - /url: /order/winter/christmas-holiday-dinner.html
+                    - text: Shop now
+              - generic [ref=e196]: Sponsored 3rd party ad content
+              - generic [ref=e199]: Sponsored 3rd party ad content
+              - link [ref=e202] [cursor=pointer]:
+                - /url: /div/game-on-norcal.html
+                - generic [ref=e208]:
+                  - heading [level=2] [ref=e210]: Earn & score
+                  - generic [ref=e211]: "Shop more, earn more: 4x Points on hundreds of items!"
+                  - link [ref=e212]:
+                    - /url: /div/game-on-norcal.html
+                    - text: Shop now
+              - generic [ref=e215]: Sponsored 3rd party ad content
+              - link [ref=e218] [cursor=pointer]:
+                - /url: /freshpass/manage/subscribe
+                - generic [ref=e221]:
+                  - img [ref=e224]
+                  - generic [ref=e225]:
+                    - heading [level=2] [ref=e227]: Get 50% off FreshPass®
+                    - generic [ref=e228]: Get free delivery, premium perks & more. Thru Dec. 9.
+                    - link [ref=e229]:
+                      - /url: /freshpass/manage/subscribe
+                      - text: Sign up
+            - generic [ref=e231]:
+              - button "Pause Carousel slide" [ref=e232] [cursor=pointer]
+              - generic [ref=e234]:
+                - generic [ref=e235]: Current Slide 5 of 6
+                - generic [ref=e236]: 5/6
+              - button "Next slide" [ref=e237] [cursor=pointer]
+          - generic [ref=e241]:
+            - link "Hacks for the holidays - Shop now" [ref=e243] [cursor=pointer]:
+              - /url: /order/winter/holiday-foods.html
+              - generic [ref=e244]:
+                - img [ref=e247]
+                - generic [ref=e248]:
+                  - heading "Hacks for the holidays" [level=3] [ref=e249]
+                  - link "Hacks for the holidays - Shop now" [ref=e250]: Shop now
+            - link "Feel the joy - Shop now" [ref=e252] [cursor=pointer]:
+              - /url: /shop/search-results.html?q=overjoyed&tab=products
+              - generic [ref=e253]:
+                - img [ref=e256]
+                - generic [ref=e257]:
+                  - heading "Feel the joy" [level=3] [ref=e258]
+                  - link "Feel the joy - Shop now" [ref=e259]: Shop now
+      - generic [ref=e261]:
+        - generic [ref=e270]:
+          - generic [ref=e271]:
+            - generic [ref=e273]:
+              - heading "Roasts, hams & more" [level=2] [ref=e274]
+              - link "View all - Roasts, hams & more" [ref=e275] [cursor=pointer]:
+                - /url: /lp/p/9185fb20-b8a9-4a9c-b1c1-a920612b81c5/roasts-ham-more.html?title=Roasts%2C%20hams%20%26%20more
+                - text: View all
+            - generic [ref=e276]:
+              - button "Previous set" [disabled] [ref=e277]
+              - generic [ref=e280]:
+                - region [ref=e283]:
+                  - generic [ref=e284]:
+                    - link "USDA Choice Beef Rib Roast Bone In - Weight Between 9-11 Lb (4-5 ribs) ,price approximatly $229.90 , 1 of 14" [ref=e285] [cursor=pointer]:
+                      - /url: /shop/product-details.960109430.html
+                    - generic [ref=e286]:
+                      - img "USDA Choice Beef Rib Roast Bone In - Weight Between 9-11 Lb (4-5 ribs)" [ref=e290]
+                      - button "Sign in to add 1 unit of USDA Choice Beef Rib Roast Bone In - Weight Between 9-11 Lb (4-5 ribs)" [ref=e293] [cursor=pointer]:
+                        - generic [ref=e294]: Sign in to add
+                    - generic [ref=e296]:
+                      - generic [ref=e297]:
+                        - generic [ref=e299]: approx.
+                        - generic [ref=e301]:
+                          - generic [ref=e302]: Your Price $229.90
+                          - text: $229.90
+                      - link "USDA Choice Beef Rib Roast Bone In - Weight Between 9-11 Lb (4-5 ribs)" [ref=e304] [cursor=pointer]:
+                        - /url: /shop/product-details.960109430.html
+                        - text: USDA Choice Beef Rib Roast Bon...n 9-11 Lb (4-5 ribs)
+                - region [ref=e307]:
+                  - generic [ref=e308]:
+                    - link "Signature SELECT Smoked Cooked Boneless Ham - 2 Lb ,price approximatly $15.98 , 2 of 14" [ref=e309] [cursor=pointer]:
+                      - /url: /shop/product-details.188510010.html
+                    - generic [ref=e310]:
+                      - img "Signature SELECT Smoked Cooked Boneless Ham - 2 Lb" [ref=e314]
+                      - button "Sign in to add 1 unit of Signature SELECT Smoked Cooked Boneless Ham - 2 Lb" [ref=e317] [cursor=pointer]:
+                        - generic [ref=e318]: Sign in to add
+                    - generic [ref=e320]:
+                      - generic [ref=e321]:
+                        - generic [ref=e323]: approx.
+                        - generic [ref=e325]:
+                          - generic [ref=e326]: Your Price $15.98
+                          - text: $15.98
+                      - link "Signature SELECT Smoked Cooked Boneless Ham - 2 Lb" [ref=e328] [cursor=pointer]:
+                        - /url: /shop/product-details.188510010.html
+                - region [ref=e331]:
+                  - generic [ref=e332]:
+                    - link "Signature SELECT Cooked Smoked Honey Boneless Ham Half - 2 Lb ,price approximatly $15.98 , 3 of 14" [ref=e333] [cursor=pointer]:
+                      - /url: /shop/product-details.188510026.html
+                    - generic [ref=e334]:
+                      - img "Signature SELECT Cooked Smoked Honey Boneless Ham Half - 2 Lb" [ref=e338]
+                      - button "Sign in to add 1 unit of Signature SELECT Cooked Smoked Honey Boneless Ham Half - 2 Lb" [ref=e341] [cursor=pointer]:
+                        - generic [ref=e342]: Sign in to add
+                    - generic [ref=e344]:
+                      - generic [ref=e345]:
+                        - generic [ref=e347]: approx.
+                        - generic [ref=e349]:
+                          - generic [ref=e350]: Your Price $15.98
+                          - text: $15.98
+                      - link "Signature SELECT Cooked Smoked Honey Boneless Ham Half - 2 Lb" [ref=e352] [cursor=pointer]:
+                        - /url: /shop/product-details.188510026.html
+                        - text: Signature SELECT Cooked Smoked...less Ham Half - 2 Lb
+                - region [ref=e355]:
+                  - generic [ref=e356]:
+                    - link "USDA Choice Beef Bottom Round Roast - 3 Lb ,price approximatly $23.97 , 4 of 14" [ref=e357] [cursor=pointer]:
+                      - /url: /shop/product-details.188020222.html
+                    - generic [ref=e358]: Weekly ad
+                    - generic [ref=e359]:
+                      - img "USDA Choice Beef Bottom Round Roast - 3 Lb" [ref=e363]
+                      - button "Sign in to add 1 unit of USDA Choice Beef Bottom Round Roast - 3 Lb" [ref=e366] [cursor=pointer]:
+                        - generic [ref=e367]: Sign in to add
+                    - generic [ref=e369]:
+                      - generic [ref=e370]:
+                        - generic [ref=e372]: approx.
+                        - generic [ref=e373]:
+                          - generic [ref=e374]:
+                            - generic [ref=e375]: Your Price $23.97
+                            - text: $23.97
+                          - deletion [ref=e376]:
+                            - generic [ref=e377]: Original Price $41.97
+                            - text: $41.97
+                      - link "USDA Choice Beef Bottom Round Roast - 3 Lb" [ref=e379] [cursor=pointer]:
+                        - /url: /shop/product-details.188020222.html
+                      - button "Details for Earn 2X Points coupon for USDA Choice Beef Bottom Round Roast - 3 Lb" [ref=e382] [cursor=pointer]:
+                        - generic [ref=e383]: Earn 2X Points
+                - region [ref=e388]:
+                  - generic [ref=e389]:
+                    - link "USDA Choice Beef Eye of Round Roast - 3 Lb ,price approximatly $23.97 , 5 of 14" [ref=e390] [cursor=pointer]:
+                      - /url: /shop/product-details.188020230.html
+                    - generic [ref=e391]: Weekly ad
+                    - generic [ref=e392]:
+                      - img "USDA Choice Beef Eye of Round Roast - 3 Lb" [ref=e396]
+                      - button "Sign in to add 1 unit of USDA Choice Beef Eye of Round Roast - 3 Lb" [ref=e399] [cursor=pointer]:
+                        - generic [ref=e400]: Sign in to add
+                    - generic [ref=e402]:
+                      - generic [ref=e403]:
+                        - generic [ref=e405]: approx.
+                        - generic [ref=e406]:
+                          - generic [ref=e407]:
+                            - generic [ref=e408]: Your Price $23.97
+                            - text: $23.97
+                          - deletion [ref=e409]:
+                            - generic [ref=e410]: Original Price $41.97
+                            - text: $41.97
+                      - link "USDA Choice Beef Eye of Round Roast - 3 Lb" [ref=e412] [cursor=pointer]:
+                        - /url: /shop/product-details.188020230.html
+                      - button "Details for Earn 2X Points coupon for USDA Choice Beef Eye of Round Roast - 3 Lb" [ref=e415] [cursor=pointer]:
+                        - generic [ref=e416]: Earn 2X Points
+                - region [ref=e421]:
+                  - generic [ref=e422]:
+                    - link "USDA Prime Beef Rib Bone In Whole - Weight Between 6-8 Lb ,price approximatly $209.93 , 6 of 14" [ref=e423] [cursor=pointer]:
+                      - /url: /shop/product-details.970000747.html
+                    - generic [ref=e424]:
+                      - img "USDA Prime Beef Rib Bone In Whole - Weight Between 6-8 Lb" [ref=e428]
+                      - button "Sign in to add 1 unit of USDA Prime Beef Rib Bone In Whole - Weight Between 6-8 Lb" [ref=e431] [cursor=pointer]:
+                        - generic [ref=e432]: Sign in to add
+                    - generic [ref=e434]:
+                      - generic [ref=e435]:
+                        - generic [ref=e437]: approx.
+                        - generic [ref=e439]:
+                          - generic [ref=e440]: Your Price $209.93
+                          - text: $209.93
+                      - link "USDA Prime Beef Rib Bone In Whole - Weight Between 6-8 Lb" [ref=e442] [cursor=pointer]:
+                        - /url: /shop/product-details.970000747.html
+                - region [ref=e445]:
+                  - generic [ref=e446]:
+                    - link [ref=e447] [cursor=pointer]:
+                      - /url: /shop/product-details.960262175.html
+                    - generic [ref=e448]:
+                      - img [ref=e452]
+                      - button [ref=e455] [cursor=pointer]:
+                        - generic [ref=e456]: Sign in to add
+                    - generic [ref=e458]:
+                      - generic [ref=e459]:
+                        - generic [ref=e461]: approx.
+                        - generic [ref=e463]:
+                          - generic [ref=e464]: Your Price $62.47
+                          - text: $62.47
+                      - link [ref=e466] [cursor=pointer]:
+                        - /url: /shop/product-details.960262175.html
+                        - text: USDA Choice Beef Tenderloin Roast - 2.5 Lb
+                - region [ref=e469]:
+                  - generic [ref=e470]:
+                    - link [ref=e471] [cursor=pointer]:
+                      - /url: /shop/product-details.188150168.html
+                    - generic [ref=e472]:
+                      - img [ref=e476]
+                      - button [ref=e479] [cursor=pointer]:
+                        - generic [ref=e480]: Sign in to add
+                    - generic [ref=e482]:
+                      - generic [ref=e483]:
+                        - generic [ref=e485]: approx.
+                        - generic [ref=e487]:
+                          - generic [ref=e488]: Your Price $37.96
+                          - text: $37.96
+                      - link [ref=e490] [cursor=pointer]:
+                        - /url: /shop/product-details.188150168.html
+                        - text: Open Nature Lamb Leg Semi Boneless Whole Imported - 4 Lb
+                - region [ref=e493]:
+                  - generic [ref=e494]:
+                    - link [ref=e495] [cursor=pointer]:
+                      - /url: /shop/product-details.960134973.html
+                    - generic [ref=e496]: Bestseller
+                    - generic [ref=e497]:
+                      - img [ref=e501]
+                      - button [ref=e504] [cursor=pointer]:
+                        - generic [ref=e505]: Sign in to add
+                    - generic [ref=e507]:
+                      - generic [ref=e508]:
+                        - generic [ref=e510]: approx.
+                        - generic [ref=e512]:
+                          - generic [ref=e513]: Your Price $24.98
+                          - text: $24.98
+                      - link [ref=e515] [cursor=pointer]:
+                        - /url: /shop/product-details.960134973.html
+                        - text: Open Nature Lamb Shoulder Chop Value Pack - 2.5 Lb
+                - region [ref=e518]:
+                  - generic [ref=e519]:
+                    - link [ref=e520] [cursor=pointer]:
+                      - /url: /shop/product-details.960329957.html
+                    - generic [ref=e521]:
+                      - img [ref=e525]
+                      - button [ref=e528] [cursor=pointer]:
+                        - generic [ref=e529]: Sign in to add
+                    - generic [ref=e531]:
+                      - generic [ref=e532]:
+                        - generic [ref=e534]: approx.
+                        - generic [ref=e536]:
+                          - generic [ref=e537]: Your Price $39.90
+                          - text: $39.90
+                      - link [ref=e539] [cursor=pointer]:
+                        - /url: /shop/product-details.960329957.html
+                        - text: Signature SELECT Spiral Sliced...tural Juices - 10 Lb
+                - region [ref=e542]:
+                  - generic [ref=e543]:
+                    - link [ref=e544] [cursor=pointer]:
+                      - /url: /shop/product-details.960087636.html
+                    - generic [ref=e545]:
+                      - img [ref=e549]
+                      - button [ref=e552] [cursor=pointer]:
+                        - generic [ref=e553]: Sign in to add
+                    - generic [ref=e555]:
+                      - generic [ref=e556]:
+                        - generic [ref=e558]: approx.
+                        - generic [ref=e560]:
+                          - generic [ref=e561]: Your Price $19.23
+                          - text: $19.23
+                      - link [ref=e563] [cursor=pointer]:
+                        - /url: /shop/product-details.960087636.html
+                        - text: Open Nature Roast Boneless Gra...ngus Chuck - 1.75 Lb
+                - region [ref=e566]:
+                  - generic [ref=e567]:
+                    - link [ref=e568] [cursor=pointer]:
+                      - /url: /shop/product-details.188150036.html
+                    - generic [ref=e569]:
+                      - img [ref=e573]
+                      - button [ref=e576] [cursor=pointer]:
+                        - generic [ref=e577]: Sign in to add
+                    - generic [ref=e579]:
+                      - generic [ref=e580]:
+                        - generic [ref=e582]: approx.
+                        - generic [ref=e583]:
+                          - generic [ref=e584]:
+                            - generic [ref=e585]: Your Price $10.99
+                            - text: $10.99 / ea
+                          - deletion [ref=e586]:
+                            - generic [ref=e587]: Original Price $14.99
+                            - text: $14.99
+                      - link [ref=e589] [cursor=pointer]:
+                        - /url: /shop/product-details.188150036.html
+                        - text: Open Nature Lamb Loin Chops - 1 Lb
+                - region [ref=e592]:
+                  - generic [ref=e593]:
+                    - link [ref=e594] [cursor=pointer]:
+                      - /url: /shop/product-details.960087639.html
+                    - generic [ref=e595]:
+                      - img [ref=e599]
+                      - button [ref=e602] [cursor=pointer]:
+                        - generic [ref=e603]: Sign in to add
+                    - generic [ref=e605]:
+                      - generic [ref=e606]:
+                        - generic [ref=e608]: approx.
+                        - generic [ref=e610]:
+                          - generic [ref=e611]: Your Price $87.48
+                          - text: $87.48
+                      - link [ref=e613] [cursor=pointer]:
+                        - /url: /shop/product-details.960087639.html
+                        - text: USDA Prime Beef Ribeye Roast Boneless - 2.5 Lb
+                - region [ref=e616]:
+                  - generic [ref=e617]:
+                    - link [ref=e618] [cursor=pointer]:
+                      - /url: /shop/product-details.288250001.html
+                    - generic [ref=e619]:
+                      - img [ref=e623]
+                      - button [ref=e626] [cursor=pointer]:
+                        - generic [ref=e627]: Sign in to add
+                    - generic [ref=e629]:
+                      - generic [ref=e630]:
+                        - generic [ref=e632]: approx.
+                        - generic [ref=e634]:
+                          - generic [ref=e635]: Your Price $37.91
+                          - text: $37.91
+                      - link [ref=e637] [cursor=pointer]:
+                        - /url: /shop/product-details.288250001.html
+                        - text: Whole Pork Shoulder Blade Roast - 9.5 Lb
+              - button "Next set" [ref=e638] [cursor=pointer]
+          - generic [ref=e641]:
+            - heading "Shop the season" [level=2] [ref=e642]
+            - generic [ref=e643]:
+              - link "Hanukkah" [ref=e645] [cursor=pointer]:
+                - /url: /order/winter/hanukkah-food.html
+                - img [ref=e647]
+                - generic [ref=e649]: Hanukkah
+              - link "Kwanzaa" [ref=e651] [cursor=pointer]:
+                - /url: /order/winter/kwanzaa-foods.html
+                - img [ref=e653]
+                - generic [ref=e655]: Kwanzaa
+              - link "Make it merry" [ref=e657] [cursor=pointer]:
+                - /url: /order/winter/events-holidays.html
+                - img [ref=e659]
+                - generic [ref=e661]: Make it merry
+          - generic [ref=e663]:
+            - heading "Easy entertaining" [ref=e666]
+            - generic [ref=e667]:
+              - button "Show previous set of Easy entertaining" [disabled] [ref=e668] [cursor=pointer]
+              - generic [ref=e670]:
+                - link "Holiday value bundle, 4 products" [ref=e675] [cursor=pointer]:
+                  - /url: /bundles/holiday-value-bundle-national
+                  - generic [ref=e676]:
+                    - generic [ref=e677]: Holiday value bundle
+                    - paragraph [ref=e678]
+                    - link [ref=e679]:
+                      - img [ref=e680]
+                  - img [ref=e683]:
+                    - img [ref=e685]
+                  - generic [ref=e686]:
+                    - img [ref=e687]:
+                      - img [ref=e689]
+                    - img [ref=e690]:
+                      - img [ref=e692]
+                    - img [ref=e693]:
+                      - img [ref=e695]
+                    - img [ref=e696]:
+                      - img [ref=e698]
+                - link "Catering trays , 4 products" [ref=e703] [cursor=pointer]:
+                  - /url: /bundles/catering-trays
+                  - generic [ref=e704]:
+                    - generic [ref=e705]: Catering trays
+                    - paragraph [ref=e706]
+                    - link [ref=e707]:
+                      - img [ref=e708]
+                  - img [ref=e711]:
+                    - img [ref=e713]
+                  - generic [ref=e714]:
+                    - img [ref=e715]:
+                      - img [ref=e717]
+                    - img [ref=e718]:
+                      - img [ref=e720]
+                    - img [ref=e721]:
+                      - img [ref=e723]
+                    - img [ref=e724]:
+                      - img [ref=e726]
+                - link "Christmas tree bread , 4 products" [ref=e731] [cursor=pointer]:
+                  - /url: /bundles/christmas-tree-bread
+                  - generic [ref=e732]:
+                    - generic [ref=e733]: Christmas tree bread
+                    - paragraph [ref=e734]
+                    - link [ref=e735]:
+                      - img [ref=e736]
+                  - img [ref=e739]:
+                    - img [ref=e741]
+                  - generic [ref=e742]:
+                    - img [ref=e743]:
+                      - img [ref=e745]
+                    - img [ref=e746]:
+                      - img [ref=e748]
+                    - img [ref=e749]:
+                      - img [ref=e751]
+                    - img [ref=e752]:
+                      - img [ref=e754]
+                - link [ref=e759] [cursor=pointer]:
+                  - /url: /bundles/eggnog
+                  - generic [ref=e760]:
+                    - generic [ref=e761]: Eggnog
+                    - paragraph [ref=e762]
+                    - link [ref=e763]:
+                      - img [ref=e764]
+                  - img [ref=e767]:
+                    - img [ref=e769]
+                  - generic [ref=e770]:
+                    - img [ref=e771]:
+                      - img [ref=e773]
+                    - img [ref=e774]:
+                      - img [ref=e776]
+                    - img [ref=e777]:
+                      - img [ref=e779]
+                    - img [ref=e780]:
+                      - img [ref=e782]
+                - link [ref=e787] [cursor=pointer]:
+                  - /url: /bundles/holiday-cheeseball
+                  - generic [ref=e788]:
+                    - generic [ref=e789]: Holiday cheeseball
+                    - paragraph [ref=e790]
+                    - link [ref=e791]:
+                      - img [ref=e792]
+                  - img [ref=e795]:
+                    - img [ref=e797]
+                  - generic [ref=e798]:
+                    - img [ref=e799]:
+                      - img [ref=e801]
+                    - img [ref=e802]:
+                      - img [ref=e804]
+                    - img [ref=e805]:
+                      - img [ref=e807]
+                    - img [ref=e808]:
+                      - img [ref=e810]
+              - button "Show next set of Easy entertaining" [ref=e811] [cursor=pointer]
+          - generic [ref=e812]:
+            - generic [ref=e814]:
+              - heading "Ultimate helpers" [level=2] [ref=e815]
+              - link "View all - Ultimate helpers" [ref=e816] [cursor=pointer]:
+                - /url: home/ultimate-helpers.html
+                - text: View all
+            - generic [ref=e817]:
+              - button "Previous set" [disabled] [ref=e818]
+              - generic [ref=e821]:
+                - region [ref=e824]:
+                  - generic [ref=e825]:
+                    - link "Ensure Original Nutrition Shake Ready To Drink Vanilla - 6-8 Fl. Oz. ,price approximatly $12.99 , 1 of 14" [ref=e826] [cursor=pointer]:
+                      - /url: /shop/product-details.149100215.html
+                    - generic [ref=e827]: Weekly ad
+                    - generic [ref=e828]:
+                      - img "Ensure Original Nutrition Shake Ready To Drink Vanilla - 6-8 Fl. Oz." [ref=e832]
+                      - button "Sign in to add 1 unit of Ensure Original Nutrition Shake Ready To Drink Vanilla - 6-8 Fl. Oz." [ref=e835] [cursor=pointer]:
+                        - generic [ref=e836]: Sign in to add
+                    - generic [ref=e838]:
+                      - generic [ref=e841]:
+                        - generic [ref=e842]:
+                          - generic [ref=e843]: Your Price $12.99
+                          - text: $12.99
+                        - deletion [ref=e844]:
+                          - generic [ref=e845]: Original Price $15.99
+                          - text: $15.99
+                      - link "Ensure Original Nutrition Shake Ready To Drink Vanilla - 6-8 Fl. Oz." [ref=e847] [cursor=pointer]:
+                        - /url: /shop/product-details.149100215.html
+                        - text: Ensure Original Nutrition Shak...anilla - 6-8 Fl. Oz.
+                      - generic [ref=e848]:
+                        - generic [ref=e849]:
+                          - generic [ref=e850]:
+                            - generic [ref=e851]: 6 count
+                            - text: 6 ct
+                          - text: "|"
+                        - generic [ref=e853]:
+                          - generic [ref=e854]: 48 fluid ounces
+                          - text: 48 fl oz
+                - region [ref=e857]:
+                  - generic [ref=e858]:
+                    - link "Ensure Original Nutrition Shake Ready To Drink Milk Chocolate - 6-8 Fl. Oz. ,price approximatly $12.99 , 2 of 14" [ref=e859] [cursor=pointer]:
+                      - /url: /shop/product-details.149100219.html
+                    - generic [ref=e860]: Weekly ad
+                    - generic [ref=e861]:
+                      - img "Ensure Original Nutrition Shake Ready To Drink Milk Chocolate - 6-8 Fl. Oz." [ref=e865]
+                      - button "Sign in to add 1 unit of Ensure Original Nutrition Shake Ready To Drink Milk Chocolate - 6-8 Fl. Oz." [ref=e868] [cursor=pointer]:
+                        - generic [ref=e869]: Sign in to add
+                    - generic [ref=e871]:
+                      - generic [ref=e874]:
+                        - generic [ref=e875]:
+                          - generic [ref=e876]: Your Price $12.99
+                          - text: $12.99
+                        - deletion [ref=e877]:
+                          - generic [ref=e878]: Original Price $15.99
+                          - text: $15.99
+                      - link "Ensure Original Nutrition Shake Ready To Drink Milk Chocolate - 6-8 Fl. Oz." [ref=e880] [cursor=pointer]:
+                        - /url: /shop/product-details.149100219.html
+                        - text: Ensure Original Nutrition Shak...colate - 6-8 Fl. Oz.
+                      - generic [ref=e881]:
+                        - generic [ref=e882]:
+                          - generic [ref=e883]:
+                            - generic [ref=e884]: 6 count
+                            - text: 6 ct
+                          - text: "|"
+                        - generic [ref=e886]:
+                          - generic [ref=e887]: 48 fluid ounces
+                          - text: 48 fl oz
+                - region [ref=e890]:
+                  - generic [ref=e891]:
+                    - link "Pillsbury Crescents Dinner Rolls Original 8 Count - 8 Oz ,price approximatly $5.99 , 3 of 14" [ref=e892] [cursor=pointer]:
+                      - /url: /shop/product-details.138010056.html
+                    - generic [ref=e893]: Weekly ad
+                    - generic [ref=e894]:
+                      - img "Pillsbury Crescents Dinner Rolls Original 8 Count - 8 Oz" [ref=e898]
+                      - button "Sign in to add 1 unit of Pillsbury Crescents Dinner Rolls Original 8 Count - 8 Oz" [ref=e901] [cursor=pointer]:
+                        - generic [ref=e902]: Sign in to add
+                    - generic [ref=e904]:
+                      - generic [ref=e908]:
+                        - generic [ref=e909]: Your Price $5.99
+                        - text: $5.99
+                      - link "Pillsbury Crescents Dinner Rolls Original 8 Count - 8 Oz" [ref=e911] [cursor=pointer]:
+                        - /url: /shop/product-details.138010056.html
+                      - button "2 deals available for Pillsbury Crescents Dinner Rolls Original 8 Count - 8 Oz" [ref=e914] [cursor=pointer]:
+                        - generic [ref=e915]: 2 deals available
+                - region [ref=e918]:
+                  - generic [ref=e919]:
+                    - link "Pillsbury Rolls Cinnamon With Original Icing 8 Count - 12.4 Oz ,price approximatly $5.99 , 4 of 14" [ref=e920] [cursor=pointer]:
+                      - /url: /shop/product-details.138010012.html
+                    - generic [ref=e921]: Weekly ad
+                    - generic [ref=e922]:
+                      - img "Pillsbury Rolls Cinnamon With Original Icing 8 Count - 12.4 Oz" [ref=e926]
+                      - button "Sign in to add 1 unit of Pillsbury Rolls Cinnamon With Original Icing 8 Count - 12.4 Oz" [ref=e929] [cursor=pointer]:
+                        - generic [ref=e930]: Sign in to add
+                    - generic [ref=e932]:
+                      - generic [ref=e936]:
+                        - generic [ref=e937]: Your Price $5.99
+                        - text: $5.99
+                      - link "Pillsbury Rolls Cinnamon With Original Icing 8 Count - 12.4 Oz" [ref=e939] [cursor=pointer]:
+                        - /url: /shop/product-details.138010012.html
+                        - text: Pillsbury Rolls Cinnamon With ...ng 8 Count - 12.4 Oz
+                      - button "2 deals available for Pillsbury Rolls Cinnamon With Original Icing 8 Count - 12.4 Oz" [ref=e942] [cursor=pointer]:
+                        - generic [ref=e943]: 2 deals available
+                - region [ref=e946]:
+                  - generic [ref=e947]:
+                    - link "Pillsbury Pie Crusts 2 Count - 14.1 Oz ,price approximatly $3.50 , 5 of 14" [ref=e948] [cursor=pointer]:
+                      - /url: /shop/product-details.960035886.html
+                    - generic [ref=e949]: Weekly ad
+                    - generic [ref=e950]:
+                      - img "Pillsbury Pie Crusts 2 Count - 14.1 Oz" [ref=e954]
+                      - button "Sign in to add 1 unit of Pillsbury Pie Crusts 2 Count - 14.1 Oz" [ref=e957] [cursor=pointer]:
+                        - generic [ref=e958]: Sign in to add
+                    - generic [ref=e960]:
+                      - generic [ref=e963]:
+                        - generic [ref=e964]:
+                          - generic [ref=e965]: Your Price $3.50
+                          - text: $3.50
+                        - deletion [ref=e966]:
+                          - generic [ref=e967]: Original Price $5.99
+                          - text: $5.99
+                      - link "Pillsbury Pie Crusts 2 Count - 14.1 Oz" [ref=e969] [cursor=pointer]:
+                        - /url: /shop/product-details.960035886.html
+                      - generic [ref=e971]:
+                        - button "Details for $1.00 OFF When Buy 2 Limit 1 coupon for Pillsbury Pie Crusts 2 Count - 14.1 Oz" [ref=e972] [cursor=pointer]:
+                          - generic [ref=e973]: $1.00 OFF When Buy 2 Limit 1
+                        - button "Clip coupon for $1.00 OFF When Buy 2 Limit 1 for Pillsbury Pie Crusts 2 Count - 14.1 Oz" [ref=e974] [cursor=pointer]
+                - region [ref=e978]:
+                  - generic [ref=e979]:
+                    - link "Planters Cashews Halves & Pieces - 8 Oz ,price approximatly $4.99 , 6 of 14" [ref=e980] [cursor=pointer]:
+                      - /url: /shop/product-details.960052699.html
+                    - generic [ref=e981]: Weekly ad
+                    - generic [ref=e982]:
+                      - img "Planters Cashews Halves & Pieces - 8 Oz" [ref=e986]
+                      - button "Sign in to add 1 unit of Planters Cashews Halves & Pieces - 8 Oz" [ref=e989] [cursor=pointer]:
+                        - generic [ref=e990]: Sign in to add
+                    - generic [ref=e992]:
+                      - generic [ref=e995]:
+                        - generic [ref=e996]:
+                          - generic [ref=e997]: Your Price $4.99
+                          - text: $4.99
+                        - deletion [ref=e998]:
+                          - generic [ref=e999]: Original Price $10.99
+                          - text: $10.99
+                      - link "Planters Cashews Halves & Pieces - 8 Oz" [ref=e1001] [cursor=pointer]:
+                        - /url: /shop/product-details.960052699.html
+                      - generic [ref=e1004]:
+                        - generic [ref=e1005]: 8 Ounce
+                        - text: 8 oz
+                      - generic [ref=e1007]:
+                        - button "Details for Earn 4X Points* coupon for Planters Cashews Halves & Pieces - 8 Oz" [ref=e1008] [cursor=pointer]:
+                          - generic [ref=e1009]: Earn 4X Points*
+                        - button "Clip coupon for Earn 4X Points* for Planters Cashews Halves & Pieces - 8 Oz" [ref=e1010] [cursor=pointer]
+                - region [ref=e1014]:
+                  - generic [ref=e1015]:
+                    - link [ref=e1016] [cursor=pointer]:
+                      - /url: /shop/product-details.971076816.html
+                    - generic [ref=e1017]: Weekly ad
+                    - generic [ref=e1018]:
+                      - img [ref=e1022]
+                      - button [ref=e1025] [cursor=pointer]:
+                        - generic [ref=e1026]: Sign in to add
+                    - generic [ref=e1028]:
+                      - generic [ref=e1031]:
+                        - generic [ref=e1032]:
+                          - generic [ref=e1033]: Your Price $9.99
+                          - text: $9.99
+                        - deletion [ref=e1034]:
+                          - generic [ref=e1035]: Original Price $11.99
+                          - text: $11.99
+                      - link [ref=e1037] [cursor=pointer]:
+                        - /url: /shop/product-details.971076816.html
+                        - text: Liquid I.V. Hydration Multipli... Drink Mix - 6 Count
+                      - generic [ref=e1040]:
+                        - generic [ref=e1041]: 6 Count
+                        - text: 6 ct
+                - region [ref=e1044]:
+                  - generic [ref=e1045]:
+                    - link [ref=e1046] [cursor=pointer]:
+                      - /url: /shop/product-details.970532930.html
+                    - generic [ref=e1047]: Weekly ad
+                    - generic [ref=e1048]:
+                      - img [ref=e1052]
+                      - button [ref=e1055] [cursor=pointer]:
+                        - generic [ref=e1056]: Sign in to add
+                    - generic [ref=e1058]:
+                      - generic [ref=e1062]:
+                        - generic [ref=e1063]: Your Price $3.19
+                        - text: $3.19
+                      - link [ref=e1065] [cursor=pointer]:
+                        - /url: /shop/product-details.970532930.html
+                        - text: BODYARMOR Flash IV Strawberry Kiwi Bottle - 20 Fl. Oz.
+                      - generic [ref=e1068]:
+                        - generic [ref=e1069]: 20 fluid ounces
+                        - text: 20 fl oz
+                      - button [ref=e1072] [cursor=pointer]:
+                        - generic [ref=e1073]: $2.00 each. When you buy 2.
+                - region [ref=e1078]:
+                  - generic [ref=e1079]:
+                    - link [ref=e1080] [cursor=pointer]:
+                      - /url: /shop/product-details.960546822.html
+                    - generic [ref=e1081]: Weekly ad
+                    - generic [ref=e1082]:
+                      - img [ref=e1086]
+                      - button [ref=e1089] [cursor=pointer]:
+                        - generic [ref=e1090]: Sign in to add
+                    - generic [ref=e1092]:
+                      - generic [ref=e1096]:
+                        - generic [ref=e1097]: Your Price $6.49
+                        - text: $6.49
+                      - link [ref=e1099] [cursor=pointer]:
+                        - /url: /shop/product-details.960546822.html
+                        - text: Chobani Sweet Cream Coffee Creamer - 24 Fl. Oz.
+                      - generic [ref=e1102]:
+                        - generic [ref=e1103]: 24 fluid ounces
+                        - text: 24 fl oz
+                      - generic [ref=e1105]:
+                        - button [ref=e1106] [cursor=pointer]:
+                          - generic [ref=e1107]: $1.00 OFF When Buy 2 Limit 1
+                        - button [ref=e1108] [cursor=pointer]
+                - region [ref=e1112]:
+                  - generic [ref=e1113]:
+                    - link [ref=e1114] [cursor=pointer]:
+                      - /url: /shop/product-details.960556034.html
+                    - generic [ref=e1115]: Bestseller
+                    - generic [ref=e1116]:
+                      - img [ref=e1120]
+                      - button [ref=e1123] [cursor=pointer]:
+                        - generic [ref=e1124]: Sign in to add
+                    - generic [ref=e1126]:
+                      - generic [ref=e1129]:
+                        - generic [ref=e1130]:
+                          - generic [ref=e1131]: Your Price $12.99
+                          - text: $12.99
+                        - deletion [ref=e1132]:
+                          - generic [ref=e1133]: Original Price $14.99
+                          - text: $14.99
+                      - link [ref=e1135] [cursor=pointer]:
+                        - /url: /shop/product-details.960556034.html
+                        - text: Peet's Coffee Major Dickasons ...Coffee Bag - 10.5 Oz
+                      - generic [ref=e1138]:
+                        - generic [ref=e1139]: 10.5 Ounce
+                        - text: 10.5 oz
+                      - generic [ref=e1141]:
+                        - button [ref=e1142] [cursor=pointer]:
+                          - generic [ref=e1143]: $3.00 off Peet's Coffee
+                        - button [ref=e1144] [cursor=pointer]
+                - region [ref=e1148]:
+                  - generic [ref=e1149]:
+                    - link [ref=e1150] [cursor=pointer]:
+                      - /url: /shop/product-details.970065141.html
+                    - generic [ref=e1151]:
+                      - img [ref=e1155]
+                      - button [ref=e1158] [cursor=pointer]:
+                        - generic [ref=e1159]: Sign in to add
+                    - generic [ref=e1161]:
+                      - generic [ref=e1164]:
+                        - generic [ref=e1165]:
+                          - generic [ref=e1166]: Your Price $10.99
+                          - text: $10.99
+                        - deletion [ref=e1167]:
+                          - generic [ref=e1168]: Original Price $13.99
+                          - text: $13.99
+                      - link [ref=e1170] [cursor=pointer]:
+                        - /url: /shop/product-details.970065141.html
+                        - text: Peet's Coffee Major Dickason's...ffee Pods - 10 Count
+                      - generic [ref=e1173]:
+                        - generic [ref=e1174]: 10 Count
+                        - text: 10 ct
+                      - generic [ref=e1176]:
+                        - button [ref=e1177] [cursor=pointer]:
+                          - generic [ref=e1178]: $3.00 off Peet's Coffee
+                        - button [ref=e1179] [cursor=pointer]
+                - region [ref=e1183]:
+                  - generic [ref=e1184]:
+                    - link [ref=e1185] [cursor=pointer]:
+                      - /url: /shop/product-details.971076802.html
+                    - generic [ref=e1186]: Weekly ad
+                    - generic [ref=e1187]:
+                      - img [ref=e1191]
+                      - button [ref=e1194] [cursor=pointer]:
+                        - generic [ref=e1195]: Sign in to add
+                    - generic [ref=e1197]:
+                      - generic [ref=e1200]:
+                        - generic [ref=e1201]:
+                          - generic [ref=e1202]: Your Price $9.99
+                          - text: $9.99
+                        - deletion [ref=e1203]:
+                          - generic [ref=e1204]: Original Price $11.99
+                          - text: $11.99
+                      - link [ref=e1206] [cursor=pointer]:
+                        - /url: /shop/product-details.971076802.html
+                        - text: Liquid I.V. Hydration Multipli... Drink Mix - 6 Count
+                      - generic [ref=e1209]:
+                        - generic [ref=e1210]: 6 Count
+                        - text: 6 ct
+                - region [ref=e1213]:
+                  - generic [ref=e1214]:
+                    - link [ref=e1215] [cursor=pointer]:
+                      - /url: /shop/product-details.195150072.html
+                    - generic [ref=e1216]: Bestseller
+                    - generic [ref=e1217]:
+                      - img [ref=e1221]
+                      - button [ref=e1224] [cursor=pointer]:
+                        - generic [ref=e1225]: Sign in to add
+                    - generic [ref=e1227]:
+                      - generic [ref=e1231]:
+                        - generic [ref=e1232]: Your Price $5.99
+                        - text: $5.99
+                      - link [ref=e1234] [cursor=pointer]:
+                        - /url: /shop/product-details.195150072.html
+                        - text: Bakery Blueberry Muffins 4 Count
+                - region [ref=e1237]:
+                  - generic [ref=e1238]:
+                    - link [ref=e1239] [cursor=pointer]:
+                      - /url: /shop/product-details.128200145.html
+                    - generic [ref=e1240]:
+                      - img [ref=e1244]
+                      - button [ref=e1247] [cursor=pointer]:
+                        - generic [ref=e1248]: Sign in to add
+                    - generic [ref=e1250]:
+                      - generic [ref=e1253]:
+                        - generic [ref=e1254]:
+                          - generic [ref=e1255]: Your Price $1.50
+                          - text: $1.50
+                        - deletion [ref=e1256]:
+                          - generic [ref=e1257]: Original Price $1.99
+                          - text: $1.99
+                      - link [ref=e1259] [cursor=pointer]:
+                        - /url: /shop/product-details.128200145.html
+                        - text: Signature SELECT Pasta Penne Rigate Box - 16 Oz
+                      - button [ref=e1262] [cursor=pointer]:
+                        - generic [ref=e1263]: Earn 2X Points
+              - button "Next set" [ref=e1266] [cursor=pointer]
+        - generic [ref=e1275]:
+          - heading "Shop what’s fresh" [level=2] [ref=e1287]
+          - generic [ref=e1288]:
+            - heading [level=2]
+            - generic [ref=e1289]:
+              - link "Meat & seafood" [ref=e1291] [cursor=pointer]:
+                - /url: /shop/aisles/meat-seafood.html?loc=3132
+                - img [ref=e1293]
+                - paragraph [ref=e1295]: Meat & seafood
+              - link "Produce" [ref=e1297] [cursor=pointer]:
+                - /url: /shop/aisles/fruits-vegetables.html?loc=3132
+                - img [ref=e1299]
+                - paragraph [ref=e1301]: Produce
+              - link "Deli" [ref=e1303] [cursor=pointer]:
+                - /url: /shop/aisles/deli.html?loc=3132
+                - img [ref=e1305]
+                - paragraph [ref=e1307]: Deli
+              - link "Bakery" [ref=e1309] [cursor=pointer]:
+                - /url: /shop/aisles/bread-bakery.html?loc=3132
+                - img [ref=e1311]
+                - paragraph [ref=e1313]: Bakery
+          - heading "Shop by category" [level=2] [ref=e1317]
+        - generic [ref=e1328]:
+          - link "Buy It Again" [ref=e1330] [cursor=pointer]:
+            - /url: /shop/purchases/buy-it-again.html
+            - generic [ref=e1332]: BI
+            - generic [ref=e1334]: Buy It Again
+          - link "Deals" [ref=e1336] [cursor=pointer]:
+            - /url: /shop/deals/member-specials.html
+            - generic [ref=e1338]: D
+            - generic [ref=e1340]: Deals
+          - link "Recipes & Meals" [ref=e1342] [cursor=pointer]:
+            - /url: /meal-plans-recipes
+            - generic [ref=e1344]: RM
+            - generic [ref=e1346]: Recipes & Meals
+          - link "Flowers, Cards, Occasion" [ref=e1348] [cursor=pointer]:
+            - /url: /shop/aisles/flowers-cards-occasion.html?loc=3132
+            - generic [ref=e1350]: FC
+            - generic [ref=e1352]: Flowers, Cards, Occasion
+          - link "Dairy, Eggs & Cheese" [ref=e1354] [cursor=pointer]:
+            - /url: /shop/aisles/dairy-eggs-cheese.html?loc=3132
+            - generic [ref=e1356]: DE
+            - generic [ref=e1358]: Dairy, Eggs & Cheese
+          - link "Beverages" [ref=e1360] [cursor=pointer]:
+            - /url: /shop/aisles/beverages.html?loc=3132
+            - generic [ref=e1362]: B
+            - generic [ref=e1364]: Beverages
+          - link "Frozen Foods" [ref=e1366] [cursor=pointer]:
+            - /url: /shop/aisles/frozen-foods.html?loc=3132
+            - generic [ref=e1368]: FF
+            - generic [ref=e1370]: Frozen Foods
+          - link "Cookies, Snacks & Candy" [ref=e1372] [cursor=pointer]:
+            - /url: /shop/aisles/cookies-snacks-candy.html?loc=3132
+            - generic [ref=e1374]: CS
+            - generic [ref=e1376]: Cookies, Snacks & Candy
+          - link "Breakfast & Cereal" [ref=e1378] [cursor=pointer]:
+            - /url: /shop/aisles/breakfast-cereal.html?loc=3132
+            - generic [ref=e1380]: BC
+            - generic [ref=e1382]: Breakfast & Cereal
+          - link "Wine, Beer & Spirits" [ref=e1384] [cursor=pointer]:
+            - /url: /shop/aisles/wine-beer-spirits.html?loc=3132
+            - generic [ref=e1386]: WB
+            - generic [ref=e1388]: Wine, Beer & Spirits
+          - link "Paper, Cleaning & Home" [ref=e1390] [cursor=pointer]:
+            - /url: /shop/aisles/paper-cleaning-home.html?loc=3132
+            - generic [ref=e1392]: PC
+            - generic [ref=e1394]: Paper, Cleaning & Home
+          - link "Personal Care & Health" [ref=e1396] [cursor=pointer]:
+            - /url: /shop/aisles/personal-care-health.html?loc=3132
+            - generic [ref=e1398]: PC
+            - generic [ref=e1400]: Personal Care & Health
+          - link "Pet Care" [ref=e1402] [cursor=pointer]:
+            - /url: /shop/aisles/pet-care.html?loc=3132
+            - generic [ref=e1404]: PC
+            - generic [ref=e1406]: Pet Care
+          - link "Condiments, Spice & Bake" [ref=e1408] [cursor=pointer]:
+            - /url: /shop/aisles/condiments-spice-bake.html?loc=3132
+            - generic [ref=e1410]: CS
+            - generic [ref=e1412]: Condiments, Spice & Bake
+          - link "Grains, Pasta & Sides" [ref=e1414] [cursor=pointer]:
+            - /url: /shop/aisles/grains-pasta-sides.html?loc=3132
+            - generic [ref=e1416]: GP
+            - generic [ref=e1418]: Grains, Pasta & Sides
+      - generic [ref=e1445]:
+        - generic [ref=e1451]:
+          - generic [ref=e1454]:
+            - heading "One dish dinners" [level=2] [ref=e1455]
+            - generic [ref=e1456]:
+              - link "Casserole recipes" [ref=e1458] [cursor=pointer]:
+                - /url: /recipes/casseroles-bakes
+                - paragraph [ref=e1461]: Casserole recipes
+              - link "Slow cooker recipes" [ref=e1463] [cursor=pointer]:
+                - /url: /recipes/slow-cooker-collection
+                - paragraph [ref=e1466]: Slow cooker recipes
+              - link "Skillet recipes" [ref=e1468] [cursor=pointer]:
+                - /url: /recipes/simple-skillet-meals
+                - paragraph [ref=e1471]: Skillet recipes
+          - generic [ref=e1482]: Sponsored 3rd party ad content
+          - generic [ref=e1489]:
+            - heading "Trending & new" [level=2] [ref=e1490]
+            - link "View all - Trending & new" [ref=e1491] [cursor=pointer]:
+              - /url: /home/trending-treats.html
+              - text: View all
+        - generic [ref=e1499]:
+          - heading "Wellness & pet" [level=2] [ref=e1511]
+          - generic [ref=e1512]:
+            - heading "Earn rewards for goals!*" [level=2] [ref=e1513]
+            - generic [ref=e1514]:
+              - link "Reach goals & save Set activity goals, sync a device & earn points!" [ref=e1516] [cursor=pointer]:
+                - /url: /health/connect-activity-tracker.html?&utm_medium=web&utm_source=%20wellnesshub&utm_campaign=2Flex_Evergreen_ConnectADevice
+                - generic [ref=e1518]:
+                  - paragraph [ref=e1519]: Reach goals & save
+                  - paragraph [ref=e1520]: Set activity goals, sync a device & earn points!
+              - link "Eat better & earn Get personalized insights & exclusive recipes!" [ref=e1522] [cursor=pointer]:
+                - /url: /health/nutrition.html?&utm_medium=web&utm_source=%20wellnesshub&utm_campaign=2Flex_Evergreen_Nutrition
+                - generic [ref=e1524]:
+                  - paragraph [ref=e1525]: Eat better & earn
+                  - paragraph [ref=e1526]: Get personalized insights & exclusive recipes!
+          - generic [ref=e1534]:
+            - generic [ref=e1537]:
+              - link [ref=e1538] [cursor=pointer]:
+                - /url: /pharmacy.html?utm_source=groceryIngress
+                - img [ref=e1540]
+              - generic [ref=e1541]:
+                - paragraph [ref=e1543]: Savings for scripts
+                - paragraph [ref=e1545]: Fill scripts & save!**
+                - link "Click to find store ." [ref=e1546] [cursor=pointer]:
+                  - /url: /pharmacy.html?utm_source=groceryIngress
+                  - generic [ref=e1547]: Find store
+            - generic [ref=e1551]:
+              - link [ref=e1552] [cursor=pointer]:
+                - /url: /pharmacy/pet-care.html?&utm_medium=web&utm_source=%20wellnesshub&utm_campaign=Med_Evergreen_PetScriptGrowth
+                - img [ref=e1554]
+              - generic [ref=e1555]:
+                - paragraph [ref=e1557]: Fill pet scripts & save
+                - paragraph [ref=e1559]: More savings = more treats! Terms apply.
+                - link "click to find store ." [ref=e1560] [cursor=pointer]:
+                  - /url: /pharmacy/pet-care.html?&utm_medium=web&utm_source=%20wellnesshub&utm_campaign=Med_Evergreen_PetScriptGrowth
+                  - generic [ref=e1561]: Find store
+      - generic [ref=e1573]:
+        - link [ref=e1574] [cursor=pointer]:
+          - /url: /benefit-card.html?&utm_medium=web&utm_source=%20wellnesshub&utm_campaign=Med_Evergreen_HealthyBenefits
+          - img [ref=e1576]
+        - generic [ref=e1577]:
+          - paragraph [ref=e1579]: Shop everyday essentials
+          - paragraph [ref=e1581]: Use your Benefit card on eligible groceries.
+          - link "Click to Find store - opens in a new tab" [ref=e1582] [cursor=pointer]:
+            - /url: /benefit-card.html?&utm_medium=web&utm_source=%20wellnesshub&utm_campaign=Med_Evergreen_HealthyBenefits
+            - generic [ref=e1583]: Find store
+      - generic [ref=e1586]:
+        - generic [ref=e1592]:
+          - heading "More to discover" [level=2] [ref=e1596]
+          - generic [ref=e1599]:
+            - generic [ref=e1602]:
+              - link [ref=e1603] [cursor=pointer]:
+                - /url: /lp/snap-ebt-pay-at-pickup.html
+                - img [ref=e1605]
+              - generic [ref=e1606]:
+                - paragraph [ref=e1608]: Use SNAP EBT in store & online
+                - paragraph [ref=e1610]: Shopping for SNAP-eligible items just got easier.
+                - link "Learn more ." [ref=e1611] [cursor=pointer]:
+                  - /url: /lp/snap-ebt-pay-at-pickup.html
+                  - generic [ref=e1612]: Learn more
+            - generic [ref=e1616]:
+              - link [ref=e1617] [cursor=pointer]:
+                - /url: /meal-plans-recipes
+                - img [ref=e1619]
+              - generic [ref=e1620]:
+                - paragraph [ref=e1622]: Shop your favorite recipes
+                - paragraph [ref=e1624]: Shop any recipe you love in a click.
+                - link "Try it now ." [ref=e1625] [cursor=pointer]:
+                  - /url: /meal-plans-recipes
+                  - generic [ref=e1626]: Try it now
+            - generic [ref=e1630]:
+              - link [ref=e1631] [cursor=pointer]:
+                - /url: /freshpass
+                - img [ref=e1633]
+              - generic [ref=e1634]:
+                - paragraph [ref=e1636]: Get $60 back
+                - paragraph [ref=e1638]: Annual subscribers get $5/mo. credits.*
+                - link "Try it now ." [ref=e1639] [cursor=pointer]:
+                  - /url: /freshpass
+                  - generic [ref=e1640]: Try it now
+          - generic [ref=e1647]:
+            - link [ref=e1648] [cursor=pointer]:
+              - /url: /about-us/our-brands.html
+              - img [ref=e1650]
+            - generic [ref=e1651]:
+              - paragraph [ref=e1653]: Our brands
+              - paragraph [ref=e1655]: Discover our exclusive brands.
+              - link "Click to browse Pringles ." [ref=e1656] [cursor=pointer]:
+                - /url: /about-us/our-brands.html
+                - generic [ref=e1657]: Shop now
+          - generic [ref=e1662]:
+            - img [ref=e1666]
+            - link [ref=e1667] [cursor=pointer]:
+              - img [ref=e1669]
+            - link [ref=e1671] [cursor=pointer]
+        - generic [ref=e1681]:
+          - link [ref=e1682] [cursor=pointer]:
+            - /url: https://business.safeway.com?utm_source=Safeway&utm_medium=Homepage&utm_campaign=MoretoDiscover
+            - img [ref=e1684]
+          - generic [ref=e1685]:
+            - paragraph [ref=e1687]: Now serving businesses
+            - paragraph [ref=e1689]: Explore Safeway for business.
+            - link "Click to shop for your business ." [ref=e1690] [cursor=pointer]:
+              - /url: https://business.safeway.com?utm_source=Safeway&utm_medium=Homepage&utm_campaign=MoretoDiscover
+              - generic [ref=e1691]: Shop now
+        - generic [ref=e1698]:
+          - generic [ref=e1699]:
+            - paragraph
+            - paragraph [ref=e1700]: New Lower Prices Terms & Conditions
+            - paragraph [ref=e1701]: "*New Lower Price (“NLP”) items are identified as items currently tagged with a base retail price of at least 8% or $1 lower than the item’s previous base retail price. NLP classification does not account for or reflect temporary price reductions, sales, special offers or other item or basket level discounts of an item which may have been applicable to certain items before or may be applicable after the NLP classification."
+            - paragraph [ref=e1702]: NLP classification varies by Albertsons Companies division and stores but is applied across hundreds of retail items in a cross-section reflecting many of the main food and merchandise product categories throughout each participating store. NLP classification may apply only to certain item and/or brand sizes, flavors or denominations but not others of the same item and/or brand. The number of items and percentage of total SKUs with NLP classification may change daily with the NLP tag providing official status for an item. NLP classification is not applied to certain categories of items, including but not limited to, most alcohol, dairy & egg, floral & gift candy, and vehicle service (including car wash and gasoline) products as well as in-store and digital service offerings.
+            - paragraph [ref=e1703]: NLP classified items may vary by Albertsons Companies divisions, banners, or stores and are subject to additional price changes in the course of business. See all NLP classified items by looking in-store or on-line for any item shown with an official “New Lower Price” tag.
+            - paragraph
+          - generic [ref=e1715]:
+            - paragraph
+            - paragraph [ref=e1716]:
+              - text: $30 Off
+              - text: on your first online pickup or delivery order when you spend $75 or more**
+              - text: Enter promo code SAVE30 at checkout
+              - text: "**OFFER DETAILS: TO SAVE $30 YOU MUST SPEND $75 OR MORE IN A SINGLE TRANSACTION FOR YOUR FIRST ONLINE PICKUP OR DELIVERY ORDER OF QUALIFYING ITEMS PURCHASED VIA A COMPANY-OWNED CHANNEL (i.e. THE Safeway WEBSITE OR MOBILE APP). OFFER DOES NOT APPLY TO ONLINE ORDERS PLACED THROUGH A THIRD-PARTY SUCH AS Instacart, UberEats, DoorDash, ETC. OR ON ORDERS SCHEDULED FOR PICKUP OR DELIVERY AFTER THE OFFER EXPIRATION DATE. Must select PICKUP or DELIVERY option and enter Promo Code SAVE30 at checkout. VALID FOR 1ST TIME ONLINE GROCERY ORDER. LIMIT 1 TIME USE PER HOUSEHOLD ONLY. Eligibility and prior promo code usage will be validated before final application to Order. If we identify from user information submitted or obtained with Order that Promo Code has previously been used by user or household, submission by user is ineligible for promotion and Promo Code will be invalidated for submitted Order. This determination will be at our sole discretion and user of invalidated Promo Code will receive a message that coupon has been invalidated prior to Order finalization. Minimum purchase amount is calculated based on subtotal of all qualifying items at checkout after deduction of all other promotions, offers, discounts, and savings and excludes alcoholic beverages, tobacco, and fluid dairy products, bottle/container deposits, and any fees, charges, and taxes. Offer may not be combined with any other promotion, offer, discount or savings and other restrictions may apply. We reserve the right to modify or cancel offers/orders and/or to correct typographical, pictorial, and other ad or pricing errors. Please review our"
+              - link "Online Ordering Services Terms - opens in a new tab" [ref=e1717] [cursor=pointer]:
+                - /url: https://www.albertsonscompanies.com/policies-and-disclosures/terms-of-use/default.aspx#toc-2
+                - text: Online Ordering Services Terms
+              - text: for specific information related to online delivery and pickup purchases.
+            - paragraph
+          - generic [ref=e1729]:
+            - paragraph
+            - paragraph [ref=e1730]:
+              - text: Guaranteed Fresh disclaimer
+              - text: All produce, meat, seafood, bakery, deli and floral items are covered under our money back guarantee. If you’re not 100% satisfied, you can request a full refund. A full refund will be issued when the product and receipt are presented. Refund will be issued based on the method of payment. Refunds without a receipt that are over $10 require are subject to manager approval. Approved funds will be issued as merchandise credit for the lowest selling price in the past 30 days. EBT refunds will be credited to the account. WIC refunds may be exchanged for the same product or other approved WIC item for the same or lesser value. Talk to a store associate in one of our locations or contact us via phone, web, mail or chat. If you ordered through a 3rd party, you may request a refund through that party or come into any one of our stores.
+            - paragraph
+          - generic [ref=e1742]:
+            - paragraph
+            - paragraph [ref=e1743]:
+              - text: Pick up or delivery in as soon as 30 min
+              - text: Must select Flash for service in as soon as 30 minutes. Service available only in select areas; operating hours of Flash Grocery Delivery and Pickup vary by store. Maximum basket size up to 35 items in a purchase and will vary by location. (Areas further from store location subject to reduced maximum for Delivery). Select items only eligible for Flash Delivery. Fulfillment time is not a guarantee and is subject to traffic and weather conditions. Varying service fees may apply.
+            - paragraph
+      - generic [ref=e1752]: Sponsored 3rd party ad content
+    - contentinfo [ref=e1753]:
+      - generic [ref=e1756]:
+        - generic [ref=e1758]:
+          - list [ref=e1760]:
+            - listitem [ref=e1761]: Quick Links
+            - listitem [ref=e1762]:
+              - link "Our Brands" [ref=e1763] [cursor=pointer]:
+                - /url: /about-us/our-brands.html
+            - listitem [ref=e1764]:
+              - link "Mobile Apps" [ref=e1765] [cursor=pointer]:
+                - /url: /about-us/mobile-apps.html
+            - listitem [ref=e1766]:
+              - link "Gift and Prepaid Cards" [ref=e1767] [cursor=pointer]:
+                - /url: /content/www/master/en/gifts-and-prepaid-cards.html
+            - listitem [ref=e1768]:
+              - link "Find Your Local Safeway opens in a new tab" [ref=e1769] [cursor=pointer]:
+                - /url: https://local.safeway.com/
+                - text: Find Your Local Safeway
+            - listitem [ref=e1770]:
+              - link "COVID-19 Vaccine" [ref=e1771] [cursor=pointer]:
+                - /url: /pharmacy/covid-19.html
+            - listitem [ref=e1772]:
+              - link "Safeway Pharmacy" [ref=e1773] [cursor=pointer]:
+                - /url: /pharmacy.html
+            - listitem [ref=e1774]:
+              - link "Product FAQ" [ref=e1775] [cursor=pointer]:
+                - /url: /shopping-guides/questions
+            - listitem [ref=e1776]:
+              - link "All Brands List" [ref=e1777] [cursor=pointer]:
+                - /url: /shop/brands/landing
+            - listitem [ref=e1778]:
+              - link "Entertaining Guide opens in a new tab" [ref=e1779] [cursor=pointer]:
+                - /url: https://www.safeway.com/content/dam/docs/safeway-deli-catering-brochure.pdf
+                - text: Entertaining Guide
+            - listitem [ref=e1780]:
+              - link "Safeway Business" [ref=e1781] [cursor=pointer]:
+                - /url: https://business.safeway.com?utm_source=Vons&utm_medium=Footer
+          - list [ref=e1783]:
+            - listitem [ref=e1784]: Company Info
+            - listitem [ref=e1785]:
+              - link "Contact Us" [ref=e1786] [cursor=pointer]:
+                - /url: /help
+            - listitem [ref=e1787]:
+              - link "FAQ" [ref=e1788] [cursor=pointer]:
+                - /url: /faq.html
+            - listitem [ref=e1789]:
+              - link "About Us" [ref=e1790] [cursor=pointer]:
+                - /url: /about-us.html
+            - listitem [ref=e1791]:
+              - link "Albertsons Companies opens in a new tab" [ref=e1792] [cursor=pointer]:
+                - /url: https://www.albertsonscompanies.com/home.html
+                - text: Albertsons Companies
+            - listitem [ref=e1793]:
+              - link "Careers opens in a new tab" [ref=e1794] [cursor=pointer]:
+                - /url: https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/pages/2
+                - text: Careers
+            - listitem [ref=e1795]:
+              - link "Suppliers opens in a new tab" [ref=e1796] [cursor=pointer]:
+                - /url: https://www.albertsonscompanies.com/suppliers.html
+                - text: Suppliers
+            - listitem [ref=e1797]:
+              - link "For Employees" [ref=e1798] [cursor=pointer]:
+                - /url: /employee-resource-center.html
+            - listitem [ref=e1799]:
+              - link "Foundation opens in a new tab" [ref=e1800] [cursor=pointer]:
+                - /url: https://www.albertsonscompanies.com/about-aci/our-impact/Albertsons-Foundation/default.aspx
+                - text: Foundation
+            - listitem [ref=e1801]:
+              - link "Product Recalls opens in a new tab" [ref=e1802] [cursor=pointer]:
+                - /url: https://www.albertsonscompanies.com/product-recalls.html
+                - text: Product Recalls
+          - list [ref=e1804]:
+            - listitem [ref=e1805]: Policies & Disclosures
+            - listitem [ref=e1806]:
+              - link "Terms of Use opens in a new tab" [ref=e1807] [cursor=pointer]:
+                - /url: https://www.albertsonscompanies.com/about-us/our-policies/terms-of-use.html
+                - text: Terms of Use
+            - listitem [ref=e1808]:
+              - link "Privacy Policy opens in a new tab" [ref=e1809] [cursor=pointer]:
+                - /url: https://www.albertsonscompanies.com/about-us/our-policies/privacy-policy.html
+                - text: Privacy Policy
+            - listitem [ref=e1810]:
+              - link "Your Privacy Choices opens in a new tab" [ref=e1811] [cursor=pointer]:
+                - /url: https://www.albertsonscompanies.com/policies-and-disclosures/privacy-policy/Privacy-Portal/
+                - text: Your Privacy Choices
+                - img "Your Privacy Choices" [ref=e1812]
+            - listitem [ref=e1813]:
+              - link "Accessibility Statement opens in a new tab" [ref=e1814] [cursor=pointer]:
+                - /url: https://www.albertsonscompanies.com/about-us/our-policies/accessibility-statement.html
+                - text: Accessibility Statement
+            - listitem [ref=e1815]:
+              - link "HIPAA Notice of Privacy Practices opens in a new tab" [ref=e1816] [cursor=pointer]:
+                - /url: https://www.albertsonscompanies.com/about-us/our-policies/hipaa-notice-of-privacy-practices.html
+                - text: HIPAA Notice of Privacy Practices
+            - listitem [ref=e1817]:
+              - link "Supply Chain Transparency opens in a new tab" [ref=e1818] [cursor=pointer]:
+                - /url: https://www.albertsonscompanies.com/policies-and-disclosures/supply-chain-transparency/default.aspx
+                - text: Supply Chain Transparency
+            - listitem [ref=e1819]:
+              - link "Other Policies & Disclosures opens in a new tab" [ref=e1820] [cursor=pointer]:
+                - /url: https://www.albertsonscompanies.com/about-us/our-policies.html
+                - text: Other Policies & Disclosures
+        - generic [ref=e1822]:
+          - listitem [ref=e1823]: Connect
+          - generic [ref=e1824]:
+            - listitem [ref=e1825]:
+              - link "Safeway Facebook page" [ref=e1826] [cursor=pointer]:
+                - /url: https://www.facebook.com/Safeway/
+                - img [ref=e1827]
+            - listitem [ref=e1829]:
+              - link "Safeway Twitter Page" [ref=e1830] [cursor=pointer]:
+                - /url: https://twitter.com/Safeway
+                - img [ref=e1831]
+            - listitem [ref=e1833]:
+              - link "Safeway Pinterest Page" [ref=e1834] [cursor=pointer]:
+                - /url: https://www.pinterest.com/safeway/
+                - img [ref=e1835]
+            - listitem [ref=e1837]:
+              - link "Safeway Instagram Page" [ref=e1838] [cursor=pointer]:
+                - /url: https://www.instagram.com/safeway/
+                - img [ref=e1839]
+            - listitem [ref=e1841]:
+              - link "Safeway YouTube Page" [ref=e1842] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/SafewayInc
+                - img [ref=e1843]
+            - listitem [ref=e1845]:
+              - link "Safeway TikTok page" [ref=e1846] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@safeway
+      - paragraph [ref=e1851]: © 2025 Albertsons Companies, Inc. All rights reserved.
+  - generic:
+    - region "Cookie banner" [active] [ref=e1853]:
+      - dialog "Privacy" [ref=e1854]:
+        - generic [ref=e1856]:
+          - generic [ref=e1859]:
+            - text: We use cookies—not the kind from our bakery, but digital ones that improve your experience. Some cookies are essential and can’t be turned off. Others help us analyze site performance or show personalized content and ads. You can manage these by selecting “Necessary Only” or “Customize.” Read our
+            - link "Privacy Policy" [ref=e1860] [cursor=pointer]:
+              - /url: https://www.albertsonscompanies.com/policies-and-disclosures/privacy-policy/default.aspx
+            - text: for more information. By clicking the “x” or "Allow All," you continue with all cookies.
+          - generic [ref=e1862]:
+            - button "Customize Cookies" [ref=e1863] [cursor=pointer]
+            - button "Necessary Only" [ref=e1864] [cursor=pointer]
+            - button "Allow All" [ref=e1865] [cursor=pointer]
+        - button "Close" [ref=e1867] [cursor=pointer]
+    - text: Customize Cookies
+  - iframe [ref=e1869]:
+    - button [ref=f18e3] [cursor=pointer]:
+      - img [ref=f18e4]
+      - img
+      - img
+```

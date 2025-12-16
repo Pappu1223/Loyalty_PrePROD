@@ -1,0 +1,31 @@
+{
+  "name": "node-cucumber-playwright-suite",
+  "version": "1.0.0",
+  "description": "Automation test suite for web scenarios using Node.js, Cucumber.js, and Playwright.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js",
+    "test:debug": "cucumber-js --format @cucumber/pretty-formatter",
+    "report": "node scripts/generateReport.js",
+    "report:light": "node scripts/generateLightweightReport.js",
+    "test:report": "npm run test && npm run report:light"
+  },
+  "keywords": [
+    "cucumber",
+    "playwright",
+    "automation",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^11.3.0",
+    "@playwright/test": "^1.57.0",
+    "chai": "^5.1.1",
+    "imap-simple": "^1.6.3",
+    "mailparser": "^2.3.0",
+    "playwright": "^1.44.1",
+    "playwright-extra": "^4.3.6",
+    "playwright-extra-plugin-stealth": "^0.0.1"
+  }
+}
